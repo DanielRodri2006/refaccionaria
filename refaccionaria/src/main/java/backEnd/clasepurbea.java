@@ -10,4 +10,8 @@ package backEnd;
  */
 public class clasepurbea {
     
+        public static void main(String[] args) {
+        System.out.println("esto es una prueba de una clase !");
+    }
+    
 }
